@@ -1,0 +1,3 @@
+[submodule "clicky-squares"]
+	path = clicky-squares
+	url = https://github.com/LoganHaug/clicky-squares
